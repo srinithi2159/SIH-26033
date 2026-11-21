@@ -68,14 +68,14 @@ Feasibility Analysis:
 Growing smartphone and internet usage in rural India supports digital adoption. UPI enables easy transactions, while cloud technology reduces operational costs. Publicly available agricultural data can support AI-based predictions.
 
 Potential Challenges:
-Limited digital literacy among farmers.
-Transportation difficulties in remote areas.
-Inaccurate or insufficient market data.
+-Limited digital literacy among farmers.
+-Transportation difficulties in remote areas.
+-Inaccurate or insufficient market data.
 
 Risk Mitigation Strategies:
-Collaborate with local FPOs and logistics partners.
-Offer basic digital training to farmers.
-Regularly update AI models with market data.
+-Collaborate with local FPOs and logistics partners.
+-Offer basic digital training to farmers.
+-Regularly update AI models with market data.
 
 ## Impact and Benefits
 **Impact:**
@@ -90,7 +90,7 @@ Regularly update AI models with market data.
 - Reduced transportation and operational costs.
 - Improved demand prediction and price transparency.
 - Faster and more organized delivery services.
-- 
+  
 ## Research and References
 
 Ministry of Consumer Affairs, Food & Public Distribution - https://consumeraffairs.nic.in Government e-Marketplace (GeM) Agricultural Procurement Initiatives - https://gem.gov.in Farmer Producer Organization (FPO) Scheme Guidelines - https://www.nabard.org FAO Research on Agricultural Supply Chain Optimization - https://www.fao.org NITI Aayog Reports on Agricultural Marketing Reforms - https://www.niti.gov.in Research Papers on AI-based Demand Forecasting and Route Optimization from IEEE Xplore and Springer Journals
