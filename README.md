@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:21-11-2026
+# Date:23-11-2026
 ## Reference Number:26015616
 ## Name:C.SRINITHI
 
@@ -93,4 +93,9 @@ Risk Mitigation Strategies:
   
 ## Research and References
 
-Ministry of Consumer Affairs, Food & Public Distribution - https://consumeraffairs.nic.in Government e-Marketplace (GeM) Agricultural Procurement Initiatives - https://gem.gov.in Farmer Producer Organization (FPO) Scheme Guidelines - https://www.nabard.org FAO Research on Agricultural Supply Chain Optimization - https://www.fao.org NITI Aayog Reports on Agricultural Marketing Reforms - https://www.niti.gov.in Research Papers on AI-based Demand Forecasting and Route Optimization from IEEE Xplore and Springer Journals
+1.Ministry of Consumer Affairs, Food & Public Distribution -https://consumeraffairs.nic.in
+2.Government e-Marketplace (GeM) Agricultural Procurement Initiatives - https://gem.gov.in
+3.Farmer Producer Organization (FPO) Scheme Guidelines - https://www.nabard.org 
+4.FAO Research on Agricultural Supply Chain Optimization - https://www.fao.org
+5.NITI Aayog Reports on Agricultural Marketing Reforms - https://www.niti.gov.in 
+6.Research Papers on AI-based Demand Forecasting and Route Optimization from IEEE Xplore and Springer Journals
